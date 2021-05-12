@@ -1,0 +1,10 @@
+; SAPOUT.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SAPOUT"
+DESCRIPTION  'SAPOUT Windows Dynamic Link Library'
+
+EXPORTS
+   DllWorker   @1
+   DllLogReg   @2
+   DllGetLog   @3
+    ; Explicit exports can go here

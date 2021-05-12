@@ -1,0 +1,9 @@
+; SAPINTF.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SAPINTF"
+DESCRIPTION  'SAPINTF Windows Dynamic Link Library'
+
+EXPORTS
+   StartWork    @1
+   StopWork     @2
+   DllLogReg    @3

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SAPEVENT", "SAPEVENT.vcproj", "{A55C7247-BA2F-44EE-B4F6-47C75870B752}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A55C7247-BA2F-44EE-B4F6-47C75870B752}.Debug.ActiveCfg = Debug|Win32
+		{A55C7247-BA2F-44EE-B4F6-47C75870B752}.Debug.Build.0 = Debug|Win32
+		{A55C7247-BA2F-44EE-B4F6-47C75870B752}.Release.ActiveCfg = Release|Win32
+		{A55C7247-BA2F-44EE-B4F6-47C75870B752}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
